@@ -8,9 +8,11 @@ Supported version of Geometry Dash: 1.0 - 2.2, 1.5 is recommended
 Required version of PHP: 5.5+ (tested up to 8.1.2)
 
 ### Setup
-1) Upload the files on a webserver
-2) Import database.sql into a MySQL/MariaDB database
-3) Edit the links in the lib files in your Geometry Dash 1.5 APK
+1. Upload the files on a webserver
+2. Import database.sql into a MySQL/MariaDB database
+3. Edit the links in the lib files in your Geometry Dash 1.5 APK
+#### Optional steps:
+- Modify the password used in the rate tool at `/incl/misc/rateToolPassword.php`
 
 ### Credits
 
@@ -23,3 +25,5 @@ Using this for XOR encryption - https://github.com/sathoro/php-xor-cipher - (inc
 Using this for cloud save encryption - https://github.com/defuse/php-encryption - (incl/lib/defuse-crypto.phar)
 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
+
+Demon, auto, and star/feature/epic rating support in the rate tool by CirnoTheUwU
