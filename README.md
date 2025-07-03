@@ -1,5 +1,5 @@
 # FishGDPS' GMDPrivateServer
-Fork of GMDPrivateServer for FishGDPS
+> Fork of GMDPrivateServer for FishGDPS
 
 Differences from GMDPrivateServer are found [here](docs/differences.md)
 
