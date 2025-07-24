@@ -3,7 +3,7 @@
 
 Differences from GMDPrivateServer are found [here](docs/differences.md)
 
-Supported version of Geometry Dash: 1.0 - 2.2, 1.5 is recommended
+Supported version of Geometry Dash: 1.0 - 1.5, 1.5 is recommended
 
 Required version of PHP: 8.0+
 
@@ -27,3 +27,5 @@ Using this for cloud save encryption - https://github.com/defuse/php-encryption 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
 
 Demon, auto, and star/feature/epic rating support in the rate tool by CirnoTheUwU
+
+Using this for the website - https://www.w3schools.com/w3css/default.asp (w3.css)
