@@ -5,7 +5,7 @@ Differences from GMDPrivateServer are found [here](docs/differences.md)
 
 Supported version of Geometry Dash: 1.0 - 2.2, 1.5 is recommended
 
-Required version of PHP: 5.5+ (tested up to 8.1.2)
+Required version of PHP: 8.0+
 
 ### Setup
 1. Upload the files on a webserver
